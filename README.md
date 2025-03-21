@@ -1,6 +1,6 @@
 ## Hi I'am Raka Nugraha 👋
 
-<br>- 🌱 I’m currently learning javascript, Nextjs with Typescript for frontend and Expressjs with MySql or MongoDb for backend.<br>- 👯 I’m looking to collaborate on Project Fullstack Developer with javascript Language<br>- 💬 Ask me about How to collaborate with me on a project?<br>- 📫 How to reach me: You can check my own Website [Website](https://rakanugrahadev.vercel.app/)<br>- 😄 Pronouns: Raka<br>- ⚡ Fun fact: I Love Terong balado witch mean Spicy Aubergine with Chili Sauce
+<br>- 🌱 I’m currently learning javascript, Nextjs with Typescript for frontend and Expressjs with MySql or MongoDb for backend.<br>- 👯 I’m looking to collaborate on Project Fullstack Developer with javascript Language<br>- 💬 Ask me about How to collaborate with me on a project?<br>- 📫 How to reach me: You can check my own Website [Raka Nugraha || Fullstack](https://rakanugrahadev.vercel.app/)<br>- 😄 Pronouns: Raka<br>- ⚡ Fun fact: I Love Terong balado witch mean Spicy Aubergine with Chili Sauce
 
 
 ## 🌐 Socials:
